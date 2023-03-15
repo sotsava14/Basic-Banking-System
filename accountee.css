@@ -1,0 +1,46 @@
+/* Body Styles */
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #000000;
+  }
+  
+  /* Navbar Styles */
+  .navbar-light.bg-light {
+    background-color: rgb(14, 43, 150) !important;
+  }
+  
+  .navbar-brand {
+    font-family: 'Sansita Swashed', cursive;
+    font-size: 1.5rem;
+    color: rgb(255, 255, 255) !important;
+  }
+  
+  .nav-link {
+    margin: 5px;
+    color: rgb(255, 255, 255) !important;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  
+  #nl2,
+  .nav-link:hover {
+    border-radius: 7px !important;
+    background-color: hsl(192, 83%, 30%);
+  }
+  
+  /* My Info Styles */
+  .my-info {
+    padding: 2rem 5rem;
+  }
+  
+  .btn-info {
+    padding: 0.75rem 1.2rem;
+    background-color: #579e3d !important;
+    color: #fff !important;
+    margin-left: 5px;
+    transition: all 0.3s;
+  }
+  
+  .btn-info:hover {
+    background-color: #327818 !important;
+  }
+  
